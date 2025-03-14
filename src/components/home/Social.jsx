@@ -1,5 +1,5 @@
 import React from "react";
-import {FiTwitter, FiGithub, FiLinkedin, FiInstagram} from "react-icons/fi";
+import {FiGithub, FiLinkedin, FiInstagram} from "react-icons/fi";
 
 const Social = () => {
     return (
