@@ -37,7 +37,7 @@ jobs:
           fi
       - name: Deploy with gh-pages
         run: |
-          git merge main
+          git merge main --allow-unrelated-histories
           npm run deploy
           git push origin gh-pages
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
