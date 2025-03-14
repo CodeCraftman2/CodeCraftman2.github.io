@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.5ec0e216.css",
-    "main.js": "./static/js/main.499f9d3d.js",
-    "static/media/profileBW.jpeg": "./static/media/profileBW.bb620bd63b978691d578.jpeg",
-    "static/media/Example-Cv.pdf": "./static/media/Example-Cv.1352772321268019c15f.pdf",
-    "static/media/project3.webp": "./static/media/project3.44a19bdd03496c7fd8d9.webp",
-    "static/media/project1.webp": "./static/media/project1.127e2ebc497c5a6b2505.webp",
-    "static/media/aboutBW.webp": "./static/media/aboutBW.4d5bf53ec21c83f563a5.webp",
-    "static/media/woman1.png": "./static/media/woman1.bf207e1501b3e3a89339.png",
-    "static/media/woman2.png": "./static/media/woman2.1badb7321889e9b9ceaf.png",
-    "static/media/man.png": "./static/media/man.58008a565ab6f0db4d93.png",
-    "static/media/project2.webp": "./static/media/project2.8b815474dd855ea32107.webp",
-    "index.html": "./index.html",
-    "main.5ec0e216.css.map": "./static/css/main.5ec0e216.css.map",
-    "main.499f9d3d.js.map": "./static/js/main.499f9d3d.js.map"
+    "main.css": "/CodeCraftman2.github.io/static/css/main.fbaab129.css",
+    "main.js": "/CodeCraftman2.github.io/static/js/main.73d57aec.js",
+    "static/media/profileBW.jpeg": "/CodeCraftman2.github.io/static/media/profileBW.bb620bd63b978691d578.jpeg",
+    "static/media/Example-Cv.pdf": "/CodeCraftman2.github.io/static/media/Example-Cv.1352772321268019c15f.pdf",
+    "static/media/project3.webp": "/CodeCraftman2.github.io/static/media/project3.44a19bdd03496c7fd8d9.webp",
+    "static/media/project1.webp": "/CodeCraftman2.github.io/static/media/project1.127e2ebc497c5a6b2505.webp",
+    "static/media/aboutBW.webp": "/CodeCraftman2.github.io/static/media/aboutBW.4d5bf53ec21c83f563a5.webp",
+    "static/media/woman1.png": "/CodeCraftman2.github.io/static/media/woman1.bf207e1501b3e3a89339.png",
+    "static/media/woman2.png": "/CodeCraftman2.github.io/static/media/woman2.1badb7321889e9b9ceaf.png",
+    "static/media/man.png": "/CodeCraftman2.github.io/static/media/man.58008a565ab6f0db4d93.png",
+    "static/media/project2.webp": "/CodeCraftman2.github.io/static/media/project2.8b815474dd855ea32107.webp",
+    "index.html": "/CodeCraftman2.github.io/index.html",
+    "main.fbaab129.css.map": "/CodeCraftman2.github.io/static/css/main.fbaab129.css.map",
+    "main.73d57aec.js.map": "/CodeCraftman2.github.io/static/js/main.73d57aec.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ec0e216.css",
-    "static/js/main.499f9d3d.js"
+    "static/css/main.fbaab129.css",
+    "static/js/main.73d57aec.js"
   ]
 }
